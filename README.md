@@ -1,7 +1,23 @@
-# Hey, I'm Osama :smile:
-- 👀 I’m interested in MERN stack projects...
-- 💞️ I’m looking to collaborate on MERN stack projects...
-- 📫 How to reach me - for now just github...
+# Hey, I'm Osama :raising_hand_man:
+- 👨‍💻 Self taught developer<br/><br/>
+- ⚛️ Mainly focused on MERN stack<br/><br/>
+- 👨‍🎓 Graduated as Mechanical Engineer in 2015, **unemployed since then**<br/><br/>
+- 🈺 **NEED  A JOB**
+
+## Technologies I've worked with
+### Frontend
+- HTML
+- CSS
+- Javascript
+- ReactJs
+- D3
+- MUI
+- TailwindCSS
+### Backend
+- NodeJs
+- MongoDB
+### Other
+- Wordpress
 
 <!---
 osSidd/osSidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
