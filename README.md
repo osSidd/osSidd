@@ -1,10 +1,5 @@
 # Hey, I'm Osama :raising_hand_man:
-- 👨‍💻 Self taught developer<br/><br/>
-- ⚛️ Mainly focused on MERN stack<br/><br/>
-- 👨‍🎓 Graduated as Mechanical Engineer in 2015, **unemployed since then**<br/><br/>
-- 🈺 **NEED  A JOB**
 
-## Technologies I've worked with
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
